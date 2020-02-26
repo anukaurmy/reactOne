@@ -1,7 +1,9 @@
 import React, { Component } from 'react';
-import Text from './Text'
-import Container from './Container'
+import Text from './Text';
+import Container from './Container';
 import '../assets/css/s.css';
+import '../assets/css/lightbox.min.css';
+import Modal from './Modal';
 
 class Main extends Component {
     render() {
@@ -10,6 +12,7 @@ class Main extends Component {
                 
                 <Text></Text>
                 <Container></Container>
+                <Modal></Modal>
 
             </div>
         );
