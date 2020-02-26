@@ -9,13 +9,13 @@ class RowOne extends Component {
     render() {
         return (
             <div>
-                **
+            
 
                <PicOne></PicOne>
                 <PicTwo></PicTwo>
                 <PicThree></PicThree>
 
-                **
+                
             </div >
         );
     }

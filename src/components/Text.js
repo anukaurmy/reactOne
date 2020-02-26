@@ -5,7 +5,7 @@ class Text extends Component{
     render(){
         return(
             <div>
-                Wow Pics
+                <h1>Image galary Design</h1>
             </div>
         );
     }

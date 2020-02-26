@@ -6,11 +6,11 @@ class RowTwo extends Component {
     render() {
         return (
             <div>
-                ***
+                
 
                 <PicCOne></PicCOne>
                 <PicCTwo></PicCTwo>
-                ***
+                
             </div>
         );
 

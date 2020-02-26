@@ -6,7 +6,7 @@ class Container extends Component {
     render() {
         return (
             <div>
-                pic Container
+               
                 <RowOne></RowOne>
                 <RowTwo></RowTwo>
             </div>
